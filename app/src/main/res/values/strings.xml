@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Stress</string>
+    <string name="huawei_login_text">华为账号登录</string>
+    <string name="phone_login_text">手机号登录</string>
+    <string name="hint_phone">手机号</string>
+    <string name="hint_password">密码</string>
+    <string name="login_text">登录</string>
+    <string name="register_text">注册</string>
+</resources>
